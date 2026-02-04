@@ -26,7 +26,10 @@ class stringBuilder{
     //reverse method
     sb.reverse();
     System.out.println("reversed stringbuilder is: "+sb);
+    System.out.println("☻☺♥♣");
         
+        
+
         
         
         
